@@ -1,0 +1,2 @@
+An AMI is an Amazon Machine Image which is a packaged set of software that can be used to launch EC2 instances, this can make launching EC2 instances faster.
+They can be shared globally and sold on the marketplace. 
