@@ -2,3 +2,6 @@
 [[Bastion Hosts]]
 [[NAT instances and gateways]]
 [[NACLS and Security Groups]]
+[[VPC Peering]]
+[[VPC Endpoint]]
+[[VPC Flow Logs]]
