@@ -5,3 +5,8 @@
 [[VPC Peering]]
 [[VPC Endpoint]]
 [[VPC Flow Logs]]
+[[Site-to-Site VPN, Virtual Private Gateway, and Customer Gateways]]
+[[Direct Connect & Direct Connect Gateway]]
+[[Transit Gateway]]
+[[AWS VPC Traffic Mirroring]]
+[[Egress Only Internet Gateway]]
