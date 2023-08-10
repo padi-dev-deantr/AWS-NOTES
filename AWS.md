@@ -15,3 +15,7 @@
 [[Questions to review]]
 [[VPCS and Networking]]
 [[IAM]]
+[[DMS]]
+[[Backup Strategies]]
+[[HPC - High Performance computing]]
+[[Data Transfer]]
